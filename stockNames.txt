@@ -1,0 +1,1582 @@
+Industrias Bachoco, S.A.B. de C:iba.us.txt
+*Williams Partners LP:wpz.us.txt
+Opiant Pharmaceuticals, Inc.:opnt.us.txt
+Nifty India Financials ETF:indf.us.txt
+The First of Long Island Corpor:flic.us.txt
+National Bank Holdings Corporat:nbhc.us.txt
+*Multistage Holdings INC:ncs.us.txt
+GRAVITY Co., Ltd.:grvy.us.txt
+*Legacy Reserves Inc.:lgcyo.us.txt
+*None:eqco.us.txt
+Graphic Packaging Holding Compa:gpk.us.txt
+W&T Offshore, Inc.:wti.us.txt
+*None:dyn_a.us.txt
+CapStar Financial Holdings, Inc:cstr.us.txt
+Myriad Genetics, Inc.:mygn.us.txt
+*None:cor_a-cl.us.txt
+*JMU:jmu.us.txt
+JPMorgan Diversified Return Eme:jpem.us.txt
+Kelly Services, Inc.:kelya.us.txt
+WBI BullBear Yield 3000 ETF:wbig.us.txt
+SPDR MSCI Emerging Markets Fuel:eemx.us.txt
+New York Community Bancorp, Inc:nycb.us.txt
+Companhia Paranaense de Energia:elp.us.txt
+AI Powered Equity ETF:aieq.us.txt
+Abraxas Petroleum Corporation:axas.us.txt
+China Pharma Holdings, Inc.:cphi.us.txt
+Thermon Group Holdings, Inc.:thr.us.txt
+NEXEO SOLUTIONS INC C/WTS 09/06:nxeow.us.txt
+Verisk Analytics, Inc.:vrsk.us.txt
+*Ability Inc.:abil.us.txt
+EV Energy Partners, L.P.  repre:evep.us.txt
+Sprague Resources LP:srlp.us.txt
+Wolverine World Wide, Inc.:www.us.txt
+NanoViricides, Inc.:nnvc.us.txt
+Extra Space Storage Inc:exr.us.txt
+FireEye, Inc.:feye.us.txt
+Republic Bancorp, Inc.:rbcaa.us.txt
+*Enerjex Resources Inc:enrj.us.txt
+*Melinta Therapeutics:mlnt.us.txt
+Avnet, Inc.:avt.us.txt
+Barclays Bank PLC iPath Series :gazb.us.txt
+Daxor Corporation:dxr.us.txt
+*GDI Integrated Facility Service:gdi.us.txt
+Ingevity Corporation:ngvt.us.txt
+IRIDEX Corporation:irix.us.txt
+Verifone Systems, Inc.:pay.us.txt
+Peoples Financial Corporation:pfbx.us.txt
+iShares International High Yiel:hyxu.us.txt
+*Newlink Genetics Cor:nlnk.us.txt
+Invacare Corporation:ivc.us.txt
+Mexico Equity and Income Fund, :mxe.us.txt
+*Norbid Inc.:osb.us.txt
+Texas Roadhouse, Inc.:txrh.us.txt
+Magnachip Semiconductor Corpora:mx.us.txt
+iShares Trust iShares Russell 2:smmd.us.txt
+Monro, Inc.:mnro.us.txt
+Xtrackers MSCI Eurozone High Di:hdez.us.txt
+Principal Real Estate Income Fu:pgz.us.txt
+Loews Corporation:l.us.txt
+*Jason Industries:jasn.us.txt
+Western Asset Variable Rate Str:gfy.us.txt
+100401:eim.us.txt
+Ball Corporation:bll.us.txt
+PIMCO Dynamic Credit and Mortga:pci.us.txt
+*BORN INC:born.us.txt
+*None:ribtw.us.txt
+Citizens Holding Company:cizn.us.txt
+U.S. Gold Corp.:usau.us.txt
+Bruker Corporation:brkr.us.txt
+Thermo Fisher Scientific Inc:tmo.us.txt
+*None:nee_j.us.txt
+*None:clns_b.us.txt
+CIM Commercial Trust Corporatio:cmct.us.txt
+Marcus & Millichap, Inc.:mmi.us.txt
+STORE Capital Corporation:stor.us.txt
+*None:clct.us.txt
+Arcimoto, Inc.:fuv.us.txt
+PDL Community Bancorp:pdlb.us.txt
+iPath Series B S&P GSCI Crude O:oilb.us.txt
+Tecogen Inc.:tgen.us.txt
+FAT Brands Inc.:fat.us.txt
+*None:cma-ws.us.txt
+Hawaiian Electric Industries, I:he.us.txt
+ProShares CDS Short North Ameri:wyde.us.txt
+CoreSite Realty Corporation:cor.us.txt
+Ingles Markets, Incorporated:imkta.us.txt
+NextEra Energy Partners, LP:nep.us.txt
+*None:ddbi.us.txt
+*None:flks.us.txt
+iShares MSCI Emerging Markets e:emxc.us.txt
+Nuveen California Quality Munic:nac.us.txt
+Donnelley Financial Solutions, :dfin.us.txt
+Phillips 66:psx.us.txt
+*None:atacu.us.txt
+St. Joe Company (The):joe.us.txt
+HDFC Bank Limited:hdb.us.txt
+*None:agn_a.us.txt
+*None:rexr_a.us.txt
+*None:jhd.us.txt
+*None:wpcs.us.txt
+Athene Holding Ltd.:ath.us.txt
+iPath Inverse US Treasury Compo:tapr.us.txt
+*None:yrcw.us.txt
+Warrior Met Coal, Inc.:hcc.us.txt
+SVB Financial Group:sivb.us.txt
+iShares Edge MSCI Multifactor F:fncf.us.txt
+iShares International Dividend :igro.us.txt
+Collegium Pharmaceutical, Inc.:coll.us.txt
+Pimco Corporate & Income Opport:pty.us.txt
+Digimarc Corporation:dmrc.us.txt
+Kemper Corporation:kmpr.us.txt
+Kennedy-Wilson Holdings Inc.:kw.us.txt
+*None:ceco.us.txt
+*None:asb-ws.us.txt
+Southern First Bancshares, Inc.:sfst.us.txt
+Chico's FAS, Inc.:chs.us.txt
+Sixth Street Specialty Lending,:tslx.us.txt
+United Microelectronics Corpora:umc.us.txt
+6625:eia.us.txt
+Nuveen Michigan Quality Municip:num.us.txt
+Fulton Financial Corporation:fult.us.txt
+Franklin Electric Co., Inc.:fele.us.txt
+Evertec, Inc.:evtc.us.txt
+Emerson Electric Company:emr.us.txt
+J.B. Hunt Transport Services, I:jbht.us.txt
+Orthofix Medical Inc.:ofix.us.txt
+*None:achn.us.txt
+Cracker Barrel Old Country Stor:cbrl.us.txt
+Old Dominion Freight Line, Inc.:odfl.us.txt
+*None:bracr.us.txt
+Zai Lab Limited:zlab.us.txt
+*None:nao.us.txt
+*None:induw.us.txt
+Intellicheck, Inc.:idn.us.txt
+*None:ggzr.us.txt
+iShares Currency Hedged MSCI Me:heww.us.txt
+Cytosorbents Corporation:ctso.us.txt
+Fidelity Quality Factor ETF:fqal.us.txt
+592314:fax.us.txt
+PC Connection, Inc.:cnxn.us.txt
+Hillenbrand Inc:hi.us.txt
+Citigroup Global Markets Holdin:dlbr.us.txt
+Invesco Moderately Conservative:psmm.us.txt
+Synchronoss Technologies, Inc.:sncr.us.txt
+Lattice Semiconductor Corporati:lscc.us.txt
+IsoRay, Inc.:isr.us.txt
+Lloyds Banking Group Plc:lyg.us.txt
+Aeterna Zentaris Inc.:aezs.us.txt
+*None:gek.us.txt
+Novartis AG:nvs.us.txt
+Armstrong Flooring, Inc.:afi.us.txt
+Aflac Incorporated 5.50% Subord:afsd.us.txt
+RiverNorth/DoubleLine Strategic:opp.us.txt
+Heritage-Crystal Clean, Inc.:hcci.us.txt
+GoDaddy Inc.:gddy.us.txt
+iShares US & Intl High Yield Co:ghyg.us.txt
+*None:ipoa-ws.us.txt
+24037:gch.us.txt
+*None:loxo.us.txt
+*None:ibkcp.us.txt
+Microchip Technology Incorporat:mchp.us.txt
+Invesco BulletShares 2025 High :bsjp.us.txt
+*None:ntc.us.txt
+Large Cap US Equity Select ETF:rnlc.us.txt
+Cushing Renaissance Fund (The) :szc.us.txt
+Controladora Vuela Compania de :vlrs.us.txt
+Invesco Pennsylvania Value Muni:vpv.us.txt
+None:ivr_a.us.txt
+Hudbay Minerals Inc.:hbm.us.txt
+None:dtla_.us.txt
+Alpha Architect International Q:imom.us.txt
+Paramount Group, Inc.:pgre.us.txt
+Natural Health Trends Corp. - C:nhtc.us.txt
+Caesars Entertainment, Inc.:czr.us.txt
+None:eqgp.us.txt
+GraniteShares Bloomberg Commodi:comb.us.txt
+GTT Communications, Inc.:gtt.us.txt
+NGL ENERGY PARTNERS LP:ngl.us.txt
+International Business Machines:ibm.us.txt
+Zymeworks Inc.:zyme.us.txt
+Franklin Liberty International :flio.us.txt
+None:stlru.us.txt
+ANSYS, Inc.:anss.us.txt
+United Bankshares, Inc.:ubsi.us.txt
+CenterPoint Energy, Inc (Holdin:cnp.us.txt
+SONIC FOUNDRY INC:sofo.us.txt
+Gaia, Inc.:gaia.us.txt
+Westlake Chemical Partners LP:wlkp.us.txt
+Shaw Communications Inc.:sjr.us.txt
+Arcelor Mittal NY Registry Shar:mt.us.txt
+Ossen Innovation Co., Ltd.:osn.us.txt
+Wedbush ETFMG Video Game Tech E:gamr.us.txt
+Snap-On Incorporated:sna.us.txt
+Xerium Technologies, Inc. New:xrm.us.txt
+3273:marps.us.txt
+Harvest Capital Credit Corporat:hcapz.us.txt
+Empire State Realty OP, L.P. Se:fisk.us.txt
+Sprott Focus Trust, Inc. - Clos:fund.us.txt
+None:ancb.us.txt
+Assembly Biosciences, Inc.:asmb.us.txt
+Farmers National Banc Corp.:fmnb.us.txt
+None:avx.us.txt
+None:mlnx.us.txt
+Deckers Outdoor Corporation:deck.us.txt
+Vishay Intertechnology, Inc.:vsh.us.txt
+Pinnacle Financial Partners, In:pnfp.us.txt
+Hasbro, Inc.:has.us.txt
+Aehr Test Systems:aehr.us.txt
+None:ahp_b.us.txt
+iShares International Aggregate:iagg.us.txt
+L Brands, Inc.:lb.us.txt
+Prima BioMed Ltd - American Dep:pbmd.us.txt
+Capital One Financial Corporati:cof.us.txt
+None:ent.us.txt
+BankUnited, Inc.:bku.us.txt
+None:rpxc.us.txt
+Five9, Inc.:fivn.us.txt
+None:web.us.txt
+Guess?, Inc.:ges.us.txt
+Invesco DWA Momentum ETF:pdp.us.txt
+Hartford Multifactor Low Volati:lvin.us.txt
+PowerShares Developed EuroPacif:fxep.us.txt
+Allied Healthcare Products, Inc:ahpi.us.txt
+Carrols Restaurant Group, Inc.:tast.us.txt
+Achieve Life Sciences, Inc.:achv.us.txt
+Frontline Ltd.:fro.us.txt
+First Trust Nasdaq Oil & Gas ET:ftxn.us.txt
+2844:wbkc.us.txt
+Jack In The Box Inc.:jack.us.txt
+None:pcg_g.us.txt
+Net 1 UEPS Technologies, Inc.:ueps.us.txt
+None:nly_d.us.txt
+Groupon, Inc.:grpn.us.txt
+None:scacw.us.txt
+XTL Biopharmaceuticals Ltd.:xtlb.us.txt
+Jaguar Health, Inc.:jagx.us.txt
+OptimumBank Holdings, Inc.:ophc.us.txt
+Invesco DWA Consumer Staples Mo:psl.us.txt
+Lincoln National Corporation:lnc.us.txt
+Coca-Cola Company (The):ko.us.txt
+Blackrock MuniYield Arizona Fun:mza.us.txt
+CB Financial Services, Inc.:cbfv.us.txt
+Clorox Company (The):clx.us.txt
+None:hpt.us.txt
+Manitex International, Inc.:mntx.us.txt
+Invitae Corporation:nvta.us.txt
+Chesapeake Energy Corporation:chk.us.txt
+None:xgtiw.us.txt
+Banco Latinoamericano de Comerc:blx.us.txt
+None:bxp_b.us.txt
+None:mvcb.us.txt
+United States Steel Corporation:x.us.txt
+Liberty Broadband Corporation:lbrda.us.txt
+4350:emj.us.txt
+Blackrock Core Bond Trust Black:bhk.us.txt
+None:itg.us.txt
+None:jpm_h.us.txt
+RLI Corp.:rli.us.txt
+Spero Therapeutics, Inc.:spro.us.txt
+Titan Machinery Inc.:titn.us.txt
+Hartford Financial Services Gro:hgh.us.txt
+SilverSun Technologies, Inc.:ssnt.us.txt
+None:thga.us.txt
+19787:nvgn.us.txt
+None:asb_c.us.txt
+None:apc.us.txt
+MFS Intermediate Income Trust:min.us.txt
+Athenex, Inc.:atnx.us.txt
+Grupo Aval Acciones y Valores S:aval.us.txt
+Lantronix, Inc.:ltrx.us.txt
+Power Price SA:ppr.us.txt
+Martin Midstream Partners L.P.:mmlp.us.txt
+Key Tronic Corporation:ktcc.us.txt
+None:banc_d.us.txt
+Gladstone Investment Corporatio:gainn.us.txt
+Sirius XM Holdings Inc.:siri.us.txt
+DAVIDsTEA Inc.:dtea.us.txt
+LONESTAR RESOURCES US INC:lone.us.txt
+Agenus Inc.:agen.us.txt
+ServisFirst Bancshares, Inc.:sfbs.us.txt
+None:hlm_.us.txt
+Invesco DWA Momentum & Low Vola:dwlv.us.txt
+Broadcom Inc.:avgo.us.txt
+Dimension Therapeutics, Inc.:dmtx.us.txt
+IDEX Corporation:iex.us.txt
+Hurco Companies, Inc.:hurc.us.txt
+None:semg.us.txt
+RISE Education Cayman Ltd:redu.us.txt
+American Railcar Industries, In:arii.us.txt
+None:chke.us.txt
+None:gwr.us.txt
+Gentherm Inc:thrm.us.txt
+WisdomTree U.S. Export and Mult:wexp.us.txt
+Sanofi:sny.us.txt
+Eaton Vance Stock NextShares:evstc.us.txt
+QUALSTAR CORP:qbak.us.txt
+Westport Fuel Systems Inc:wprt.us.txt
+American Eagle Outfitters, Inc.:aeo.us.txt
+Angi Inc.:angi.us.txt
+NorthWestern Corporation:nwe.us.txt
+None:resi.us.txt
+SPDR Portfolio Long Term Treasu:sptl.us.txt
+None:kona.us.txt
+Intel Corporation:intc.us.txt
+Pampa Energia S.A. Pampa Energi:pam.us.txt
+None:alp_o-cl.us.txt
+Bio-Rad Laboratories, Inc.:bio-b.us.txt
+Ascendis Pharma A/S:asnd.us.txt
+Nuveen ESG Mid-Cap Growth ETF:numg.us.txt
+None:c_j.us.txt
+Internationa Flavors & Fragranc:iff.us.txt
+Scotts Miracle-Gro Company (The:smg.us.txt
+Vector Group Ltd.:vgr.us.txt
+Newpark Resources, Inc.:nr.us.txt
+Ciech SA:cie.us.txt
+Plymouth Industrial REIT, Inc.:plym.us.txt
+Horizon Technology Finance Corp:htfa.us.txt
+ABB Ltd:abb.us.txt
+GCP Applied Technologies Inc.:gcp.us.txt
+Orion Energy Systems, Inc.:oesx.us.txt
+None:tntr.us.txt
+Penn Virginia Corporation:pvac.us.txt
+SunPower Corporation:spwr.us.txt
+None:glu_a.us.txt
+None:skln.us.txt
+Raymond James Financial, Inc.:rjf.us.txt
+None:per.us.txt
+20414:kyo.us.txt
+UroGen Pharma Ltd.:urgn.us.txt
+Selective Insurance Group, Inc.:sigi.us.txt
+None:gdl_b.us.txt
+Plains All American Pipeline, L:paa.us.txt
+Advance Auto Parts Inc Advance :aap.us.txt
+Great Southern Bancorp, Inc.:gsbc.us.txt
+FormFactor, Inc.:form.us.txt
+None:cubi_e.us.txt
+None:mtb_.us.txt
+Dover Corporation:dov.us.txt
+Janus Henderson Small Cap Growt:jsml.us.txt
+Ferroglobe PLC:gsm.us.txt
+QCR Holdings, Inc.:qcrh.us.txt
+Ryerson Holding Corporation:ryi.us.txt
+Ultralife Corporation:ulbi.us.txt
+US Ecology, Inc.:ecol.us.txt
+Lifetime Brands, Inc.:lcut.us.txt
+Iamgold Corporation:iag.us.txt
+Fortuna Silver Mines Inc:fsm.us.txt
+Kingold Jewelry Inc.:kgji.us.txt
+None:nfec.us.txt
+Enova International, Inc.:enva.us.txt
+Viking Therapeutics, Inc.:vktx.us.txt
+ETFMG Prime Mobile Payments ETF:ipay.us.txt
+Trimble Inc.:trmb.us.txt
+SPDR Portfolio S&P 600 Small Ca:spsm.us.txt
+Nicholas Financial, Inc.:nick.us.txt
+The Gabelli Go Anywhere Trust  :ggo.us.txt
+None:jsyn.us.txt
+PIMCO Income Strategy Fund Shar:pfl.us.txt
+Xilinx, Inc.:xlnx.us.txt
+ETRACS Monthly Pay 2xLeveraged :lret.us.txt
+Blackrock Capital and Income Fu:cii.us.txt
+USD Partners LP:usdp.us.txt
+Six Flags Entertainment Corpora:six.us.txt
+Playa Hotels & Resorts N.V.:plya.us.txt
+None:pgem.us.txt
+Kara Minerals Ltd:kmm.us.txt
+iShares Currency Hedged MSCI Eu:heus.us.txt
+KalVista Pharmaceuticals, Inc.:kalv.us.txt
+Norwood Financial Corp.:nwfl.us.txt
+Gap, Inc. (The):gps.us.txt
+Exponent, Inc.:expo.us.txt
+MICT, Inc.:mict.us.txt
+JPMorgan Diversified Return Eur:jpeu.us.txt
+Norwegian Cruise Line Holdings :nclh.us.txt
+Nuveen Multi-Market Income Fund:jmm.us.txt
+ETRACS Monthly Reset 2xLeverage:homl.us.txt
+Socket Mobile, Inc.:sckt.us.txt
+None:linu.us.txt
+Fate Therapeutics, Inc.:fate.us.txt
+Infinera Corporation:infn.us.txt
+GSE Systems, Inc.:gvp.us.txt
+ZIOPHARM Oncology Inc:ziop.us.txt
+iShares Currency Hedged MSCI Ca:hewc.us.txt
+Gorman-Rupp Company (The):grc.us.txt
+None:dvmt.us.txt
+None:bvxvw.us.txt
+Houston American Energy Corpora:husa.us.txt
+Benefitfocus, Inc.:bnft.us.txt
+Veeco Instruments Inc.:veco.us.txt
+FIRST REPUBLIC BANK:frc.us.txt
+uniQure N.V.:qure.us.txt
+MoSys, Inc.:mosy.us.txt
+None:ipci.us.txt
+North European Oil Royality Tru:nrt.us.txt
+None:skis.us.txt
+19801:enx.us.txt
+None:clirw.us.txt
+Wendy's Company (The):wen.us.txt
+None:isf.us.txt
+Berkshire Hathaway Inc. New:brk-b.us.txt
+Liberty Media Corporation - Ser:lsxmb.us.txt
+Nuveen AMT-Free Municipal Credi:nvg.us.txt
+VanEck Vectors Spin-Off ETF:spun.us.txt
+Archer-Daniels-Midland Company:adm.us.txt
+None:ln.us.txt
+Liberty Media Corporation - Ser:batra.us.txt
+None:wage.us.txt
+Voya Global Equity Dividend and:igd.us.txt
+None:nee_r.us.txt
+j2 Global, Inc.:jcom.us.txt
+Caledonia Mining Corporation Pl:cmcl.us.txt
+None:vsar.us.txt
+None:obe.us.txt
+None:wrls.us.txt
+Eleven Biotherapeutics, Inc.:ebio.us.txt
+Cedar Fair, L.P.:fun.us.txt
+XL Fleet Corp.:xl.us.txt
+Apollo Global Management, Inc.:apo.us.txt
+Quantum Corporation:qtm.us.txt
+Innovator IBD 50 ETF:ffty.us.txt
+None:axs_d.us.txt
+None:gfa.us.txt
+None:wbc.us.txt
+AT&T Inc.:t.us.txt
+Templeton Emerging Markets Fund:emf.us.txt
+New Concept Energy, Inc:gbr.us.txt
+None:jpm_d.us.txt
+PIMCO California Municipal Inco:pcq.us.txt
+Hercules Capital, Inc.:htgc.us.txt
+Grupo Aeroportuario del Centro :omab.us.txt
+2213082:fbr.us.txt
+25694:dmf.us.txt
+None:pei_b.us.txt
+None:gfnsl.us.txt
+Splunk Inc.:splk.us.txt
+None:bcv_a.us.txt
+None:gdv_g.us.txt
+Huaneng Power Intl:hnp.us.txt
+ICU Medical, Inc.:icui.us.txt
+Precipio, Inc.:prpo.us.txt
+732037:cvo.us.txt
+Mercer International Inc.:merc.us.txt
+None:nee_c-cl.us.txt
+14122:acfc.us.txt
+AutoWeb, Inc.:auto.us.txt
+Developed International Equity :rndm.us.txt
+John Hancock Multifactor Indust:jhmi.us.txt
+None:fsacu.us.txt
+None:bas.us.txt
+Endeavor Group Holdings, Inc.:edr.us.txt
+Trex Company, Inc.:trex.us.txt
+iShares Broad USD High Yield Co:ushy.us.txt
+SmartFinancial, Inc.:smbk.us.txt
+MacroGenics, Inc.:mgnx.us.txt
+Babcock & Wilcox Enterprises, I:bw.us.txt
+Hartford Multifactor Developed :rodm.us.txt
+None:cway.us.txt
+Teradata Corporation:tdc.us.txt
+Atento S.A.:atto.us.txt
+Saratoga Investment Corp 6.75% :sab.us.txt
+None:jsynw.us.txt
+First Trust Indxx Global Agricu:ftag.us.txt
+174696:shlm.us.txt
+444198:ddr.us.txt
+None:lgcy.us.txt
+None:pre_g.us.txt
+Oxbridge Re Holdings Limited:oxbr.us.txt
+Vodafone Group Plc:vod.us.txt
+Progress Software Corporation:prgs.us.txt
+FlexShares Trust FlexShares STO:esgg.us.txt
+Zions Bancorporation, N.A. 6.95:zbk.us.txt
+Landec Corporation:lndc.us.txt
+Conifer Holdings, Inc.:cnfr.us.txt
+Regions Financial Corporation:rf.us.txt
+None:ras_b.us.txt
+None:zb_h.us.txt
+None:ttph.us.txt
+Horace Mann Educators Corporati:hmn.us.txt
+CareCloud, Inc.:mtbc.us.txt
+BJ's Restaurants, Inc.:bjri.us.txt
+Leidos Holdings, Inc.:ldos.us.txt
+Aldeyra Therapeutics, Inc.:aldx.us.txt
+None:egl.us.txt
+CSI Compressco LP:cclp.us.txt
+None:snna.us.txt
+Dorian LPG Ltd.:lpg.us.txt
+None:cbm.us.txt
+iShares J.P. Morgan EM Corporat:cemb.us.txt
+Western Asset Municipal Defined:mtt.us.txt
+None:shos.us.txt
+iShares Fallen Angels USD Bond :faln.us.txt
+Home Federal Bancorp, Inc. of L:hfbl.us.txt
+Southern National Bancorp of Vi:sona.us.txt
+TechTarget, Inc.:ttgt.us.txt
+Hartford Multifactor Global Sma:rogs.us.txt
+Goldman Sachs ActiveBeta Japan :gsjy.us.txt
+C3.ai, Inc.:ai.us.txt
+Valhi, Inc.:vhi.us.txt
+Kulicke and Soffa Industries, I:klic.us.txt
+Andina Acquisition Corp. III:andaw.us.txt
+None:hive.us.txt
+1-800-FLOWERS.COM, Inc.:flws.us.txt
+Nuveen ESG Small-Cap ETF:nusc.us.txt
+Etsy, Inc.:etsy.us.txt
+Global X Health & Wellness ETF:bfit.us.txt
+Newater Technology, Inc.:newa.us.txt
+Synthetic Fixed-Income Securiti:gjh.us.txt
+Condor Hospitality Trust, Inc.:cdor.us.txt
+Invesco BulletShares 2025 Corpo:bscp.us.txt
+None:jmba.us.txt
+Brandywine Realty Trust:bdn.us.txt
+VivoPower International PLC:vvpr.us.txt
+National Energy Services Reunit:nesr.us.txt
+None:iamxr.us.txt
+Model Performance Acquisition C:mpacu.us.txt
+PYXUS INTL INC:aoi.us.txt
+United Fire Group, Inc:ufcs.us.txt
+None:cy.us.txt
+Seanergy Maritime Holdings Corp:ship.us.txt
+None:key_i.us.txt
+Obalon Therapeutics, Inc.:obln.us.txt
+None:rnr_c.us.txt
+BorgWarner Inc.:bwa.us.txt
+Arcos Dorados Holdings Inc.:arco.us.txt
+Workday, Inc.:wday.us.txt
+Berkshire Hills Bancorp, Inc.:bhlb.us.txt
+China Jo-Jo Drugstores, Inc.:cjjd.us.txt
+None:bfs_c.us.txt
+Pioneer Natural Resources Compa:pxd.us.txt
+LightPath Technologies, Inc.:lpth.us.txt
+None:ssc.us.txt
+root9B Holdings, Inc.:rtnb.us.txt
+Alexco Resource Corp:axu.us.txt
+Blue Bird Corporation:blbd.us.txt
+None:swp.us.txt
+Intercept Pharmaceuticals, Inc.:icpt.us.txt
+None:fcre.us.txt
+Turquoise Hill Resources Ltd.:trq.us.txt
+PetIQ, Inc.:petq.us.txt
+Kornit Digital Ltd.:krnt.us.txt
+Synalloy Corporation:synl.us.txt
+Howard Bancorp, Inc.:hbmd.us.txt
+Domtar Corporation (NEW):ufs.us.txt
+None:ubnk.us.txt
+Structures Products Cp 8% CorTS:kth.us.txt
+Twin Disc, Incorporated:twin.us.txt
+GameStop Corporation:gme.us.txt
+Walmart Inc.:wmt.us.txt
+Reinsurance Group of America, I:rga.us.txt
+Prospect Capital Corporation:psec.us.txt
+Boise Cascade, L.L.C.:bcc.us.txt
+None:ccc.us.txt
+Huazhu Group Limited:htht.us.txt
+First Trust Senior Floating Rat:fiv.us.txt
+Hanmi Financial Corporation:hafc.us.txt
+Willis Lease Finance Corporatio:wlfc.us.txt
+Saga Communications, Inc.:sga.us.txt
+T-Mobile US, Inc.:tmus.us.txt
+ETRACS Montly Pay 2xLeveraged U:hdlv.us.txt
+10755:chfn.us.txt
+None:bpl.us.txt
+None:rtn.us.txt
+Western Alliance Bancorporation:wala.us.txt
+Franklin FTSE:flgb.us.txt
+Nomura Holdings Inc:nmr.us.txt
+Stantec Inc:stn.us.txt
+Aviat Networks, Inc.:avnw.us.txt
+Altimar Acquisition Corporation:atac.us.txt
+Itron, Inc.:itri.us.txt
+Invesco Municipal Income Opport:oia.us.txt
+None:cpl.us.txt
+None:splp_t.us.txt
+None:bbt_d.us.txt
+None:fmcir.us.txt
+None:hhs.us.txt
+Casella Waste Systems, Inc.:cwst.us.txt
+Elkhorn ETF Trust ETF:rcom.us.txt
+None:ipoa-u.us.txt
+Mattel, Inc.:mat.us.txt
+eBay Inc.:ebay.us.txt
+None:ssfn.us.txt
+WisdomTree U.S. Short Term High:sfhy.us.txt
+Horizon Therapeutics Public Lim:hznp.us.txt
+None:ti.us.txt
+None:afsi_a.us.txt
+Resource Capital Corp. Resource:rso.us.txt
+Ares Capital Corporation - Clos:arcc.us.txt
+DXP Enterprises, Inc.:dxpe.us.txt
+Income Opportunity Realty Inves:ior.us.txt
+Leggett & Platt, Incorporated:leg.us.txt
+Citrix Systems, Inc.:ctxs.us.txt
+New Germany Fund, Inc. (The):gf.us.txt
+LightInTheBox Holding Co., Ltd.:litb.us.txt
+None:nycb_u.us.txt
+Blueknight Energy Partners L.P.:bkepp.us.txt
+Danaos Corporation:dac.us.txt
+Super Micro Computer, Inc.:smci.us.txt
+LSI Industries Inc.:lyts.us.txt
+Everspin Technologies, Inc.:mram.us.txt
+Packaging Corporation of Americ:pkg.us.txt
+83011:eep.us.txt
+Silicon Motion Technology Corpo:simo.us.txt
+ANI Pharmaceuticals, Inc.:anip.us.txt
+None:newm.us.txt
+Manhattan Associates, Inc.:manh.us.txt
+None:fred.us.txt
+475810:pot.us.txt
+Eastman Kodak Company:kodk.us.txt
+Genworth Financial Inc:gnw.us.txt
+Sacombank:stb.us.txt
+Liberty Global plc:lbtyk.us.txt
+Virtu Financial, Inc.:virt.us.txt
+None:webk.us.txt
+Tupperware Brands Corporation:tup.us.txt
+None:bbt_h.us.txt
+CTS Corporation:cts.us.txt
+Bernstein U.S. Research Fund:bern.us.txt
+DENTSPLY SIRONA Inc.:xray.us.txt
+Invesco DWA NASDAQ Momentum ETF:dwaq.us.txt
+SandRidge Energy, Inc.:sd.us.txt
+Ironwood Pharmaceuticals, Inc.:irwd.us.txt
+Nuveen Select Maturities Munici:nim.us.txt
+Interface, Inc.:tile.us.txt
+None:ahpaw.us.txt
+None:evhc.us.txt
+None:trpx.us.txt
+Equity Residential:eqr.us.txt
+23400:fmi.us.txt
+Nuveen Tax-Advantaged Dividend :jtd.us.txt
+Armada Hoffler Properties, Inc.:ahh.us.txt
+Dynex Capital, Inc.:dx.us.txt
+Clear Channel Outdoor Holdings,:cco.us.txt
+Principal Healthcare Innovators:btec.us.txt
+Southwest Airlines Company:luv.us.txt
+None:nets.us.txt
+Brinks Company (The):bco.us.txt
+Peoples Bancorp Inc.:pebo.us.txt
+None:cisn.us.txt
+None:rarx.us.txt
+Great Ajax Corp.:ajx.us.txt
+None:cel.us.txt
+Banco Santander, S.A. Sponsored:san.us.txt
+Freeport Capital Inc:fh.us.txt
+Natera, Inc.:ntra.us.txt
+KraneShares MSCI China Clean Te:kgrn.us.txt
+Banco Santander Brasil SA:bsbr.us.txt
+None:bel.us.txt
+John Hancock Multifactor Energy:jhme.us.txt
+Brown Forman Inc:bf-b.us.txt
+Nuveen Select Tax Free Income P:nxr.us.txt
+Cadence Bancorporation:cade.us.txt
+Kite Realty Group Trust:krg.us.txt
+Ollie's Bargain Outlet Holdings:olli.us.txt
+Ekso Bionics Holdings, Inc.:ekso.us.txt
+None:tss.us.txt
+500.com Limited:wbai.us.txt
+CPS Technologies Corp.:cpsh.us.txt
+S&T Bancorp, Inc.:stba.us.txt
+United-Guardian, Inc.:ug.us.txt
+None:cms_b.us.txt
+Nuance Communications, Inc.:nuan.us.txt
+Caseys General Stores, Inc.:casy.us.txt
+None:gs_d.us.txt
+SPDR Portfolio S&P 500 ETF:splg.us.txt
+Luxfer Holdings PLC:lxfr.us.txt
+China XD Plastics Company Limit:cxdc.us.txt
+Donegal Group, Inc.:dgicb.us.txt
+Minerals Technologies Inc.:mtx.us.txt
+None:ev.us.txt
+37443:cba.us.txt
+Straight Path Communications In:strp.us.txt
+Flushing Financial Corporation:ffic.us.txt
+Adams Resources & Energy, Inc.:ae.us.txt
+Cullen/Frost Bankers, Inc.:cfr.us.txt
+Apollo Tactical Income Fund Inc:aif.us.txt
+CYTRX CORP:cytr.us.txt
+21Vianet Group, Inc.:vnet.us.txt
+MSG Networks Inc.:msgn.us.txt
+ProShares S&P 500 Ex-Energy ETF:spxe.us.txt
+Psychemedics Corporation:pmd.us.txt
+C&F Financial Corporation:cffi.us.txt
+Beachfront Resources Ltd:bfr.us.txt
+SLM Corporation - Floating Rate:slmbp.us.txt
+McDonald's Corporation:mcd.us.txt
+Banco Bilbao Vizcaya Argentaria:bbva.us.txt
+One Liberty Properties, Inc.:olp.us.txt
+None:wfc_y.us.txt
+WESTBURY BANCORP INC:wbbw.us.txt
+FRP Holdings, Inc.:frph.us.txt
+None:veacw.us.txt
+Waterstone Financial, Inc.:wsbf.us.txt
+Inovalon Holdings, Inc.:inov.us.txt
+BiondVax Pharmaceuticals Ltd.:bvxv.us.txt
+Nationwide Risk-Based Internati:rbin.us.txt
+Eaton Vance Tax-Advantage Globa:eto.us.txt
+National HealthCare Corporation:nhc.us.txt
+TrueCar, Inc.:true.us.txt
+ETF Industry Exposure & Financi:tetf.us.txt
+None:dhvw.us.txt
+Meridian Corporation:mrbk.us.txt
+FirstCash, Inc.:fcfs.us.txt
+Ashford Hospitality Prime, Inc.:ahp.us.txt
+Tractor Supply Company:tsco.us.txt
+None:mbfi.us.txt
+Star Group L.P.:sgu.us.txt
+Direxion Daily Regional Banks B:dpst.us.txt
+Biomerica, Inc.:bmra.us.txt
+None:trco.us.txt
+Aerie Pharmaceuticals, Inc.:aeri.us.txt
+WESTELL TECHNOLOGIES INC:wstl.us.txt
+None:clrbw.us.txt
+CGI Inc.:gib.us.txt
+MFA Financial, Inc.:mfa.us.txt
+Hilton Worldwide Holdings Inc.:hlt.us.txt
+Constellation Brands, Inc.:stz.us.txt
+OneMain Holdings, Inc.:omf.us.txt
+None:ovas.us.txt
+SPI Energy Co., Ltd.:spi.us.txt
+Lawson Products, Inc.:laws.us.txt
+None:agm_b.us.txt
+Intercontinental Hotels Group:ihg.us.txt
+13996:onvi.us.txt
+TrimTabs US Free Cash Flow Qual:ttac.us.txt
+9045151:brcd.us.txt
+None:whlrw.us.txt
+None:chmi_a.us.txt
+Superior Drilling Products, Inc:sdpi.us.txt
+Qualys, Inc.:qlys.us.txt
+PBF Logistics LP:pbfx.us.txt
+Canadian Imperial Bank of Comme:cm.us.txt
+MRC Global Inc.:mrc.us.txt
+5312:pcbk.us.txt
+Albireo Pharma, Inc.:albo.us.txt
+None:tear.us.txt
+None:pol.us.txt
+None:mbvx.us.txt
+Prosperity Bancshares, Inc.:pb.us.txt
+None:ssw.us.txt
+J P Morgan Chase & Co ETF:jphf.us.txt
+VictoryShares US Discovery Enha:csf.us.txt
+None:nano.us.txt
+Universal Corporation:uvv.us.txt
+SB Financial Group, Inc.:sbfg.us.txt
+None:caro.us.txt
+SPDR Portfolio Intermediate Ter:spib.us.txt
+None:cnacr.us.txt
+Eaton Vance Short Diversified I:evg.us.txt
+Bear State Financial, Inc.:bsf.us.txt
+ClearSign Technologies Corporat:clir.us.txt
+Huntington Ingalls Industries, :hii.us.txt
+None:ocsll.us.txt
+39844:ttf.us.txt
+None:jbn.us.txt
+Dicerna Pharmaceuticals, Inc.:drna.us.txt
+Amplify CWP Enhanced Dividend I:divo.us.txt
+Stag Industrial, Inc.:stag.us.txt
+Cohen & Steers Infrastructure F:utf.us.txt
+Enterprise Products Partners L.:epd.us.txt
+Boot Barn Holdings, Inc.:boot.us.txt
+Information Services Group, Inc:iii.us.txt
+None:cmre_c.us.txt
+None:arex.us.txt
+Green Plains, Inc.:gpre.us.txt
+Eaton Vance Corporation Eaton V:etw.us.txt
+Columbia Sustainable U.S. Equit:esgs.us.txt
+Quest Diagnostics Incorporated:dgx.us.txt
+The Community Financial Corpora:tcfc.us.txt
+Triumph Group, Inc.:tgi.us.txt
+Sally Beauty Holdings, Inc. (Na:sbh.us.txt
+None:ohai.us.txt
+SecureWorks Corp.:scwx.us.txt
+Akamai Technologies, Inc.:akam.us.txt
+Best Buy Co., Inc.:bby.us.txt
+Greenhill & Co., Inc.:ghl.us.txt
+Sykes Enterprises, Incorporated:syke.us.txt
+UGI Corporation:ugi.us.txt
+Franklin LibertyQ Global Divide:flqd.us.txt
+JPMorgan Diversified Return Int:jpih.us.txt
+ONEOK, Inc.:oke.us.txt
+None:rose.us.txt
+Sotherly Hotels Inc. - 7.875% S:sohoo.us.txt
+CRH PLC:crh.us.txt
+None:ahl_c.us.txt
+None:jec.us.txt
+17007297:twx.us.txt
+Hamilton Lane Incorporated:hlne.us.txt
+Nike, Inc.:nke.us.txt
+None:kap.us.txt
+Pixelworks, Inc.:pxlw.us.txt
+TESSCO Technologies Incorporate:tess.us.txt
+Franklin FTSE Australia ETF:flau.us.txt
+NOV Inc.:nov.us.txt
+Alpine Immune Sciences, Inc.:alpn.us.txt
+Origo Acquisition Corporation -:oacqr.us.txt
+None:ticcl.us.txt
+Sinclair Broadcast Group, Inc.:sbgi.us.txt
+Logitech International S.A. - R:logi.us.txt
+Paylocity Holding Corporation:pcty.us.txt
+Tidewater Inc.:tdw.us.txt
+11017:cet.us.txt
+None:ds_c.us.txt
+Brunswick Corporation:bc.us.txt
+MSC Industrial Direct Company, :msm.us.txt
+iShares Russell 1000 Pure U.S. :amca.us.txt
+None:cic-ws.us.txt
+Sealed Air Corporation:see.us.txt
+ConAgra Brands, Inc.:cag.us.txt
+20889:lbix.us.txt
+Itau CorpBanca:itcb.us.txt
+Delaware Investments Dividend &:ddf.us.txt
+Landmark Infrastructure Partner:lmrko.us.txt
+None:once.us.txt
+Stone Harbor Emerging Markets I:edf.us.txt
+None:rosew.us.txt
+Nuveen New Jersey Qualified Mun:nxj.us.txt
+Aurinia Pharmaceuticals Inc:auph.us.txt
+None:ntrsp.us.txt
+Brookfield Business Partners L.:bbu.us.txt
+62620:wlb.us.txt
+None:psa_f.us.txt
+Akers Biosciences Inc.:aker.us.txt
+None:ofg_a.us.txt
+None:qvca.us.txt
+Franklin LibertyQ International:flqh.us.txt
+MSCI Inc:msci.us.txt
+Mechel PAO:mtl.us.txt
+Community Bank System, Inc.:cbu.us.txt
+None:nhld.us.txt
+Autodesk, Inc.:adsk.us.txt
+None:aq.us.txt
+Flowserve Corporation:fls.us.txt
+AAR Corp.:air.us.txt
+BlackRock Utility, Infrastructu:bui.us.txt
+None:hygs.us.txt
+Nuveen ESG U.S. Aggregate Bond :nubd.us.txt
+Change Finance U.S. Large Cap F:chgx.us.txt
+None:mjco.us.txt
+RGC Resources Inc.:rgco.us.txt
+None:cui.us.txt
+Miller/Howard High Income Equit:hie.us.txt
+The Long-Term Care ETF:old.us.txt
+None:kblm.us.txt
+FlexShares Real Assets Allocati:aset.us.txt
+First Busey Corporation:buse.us.txt
+Leaf Group Ltd.:lfgr.us.txt
+Jazz Pharmaceuticals plc:jazz.us.txt
+None:stt_e.us.txt
+2U, Inc.:twou.us.txt
+Braskem SA:bak.us.txt
+Ring Energy, Inc.:rei.us.txt
+MSA Safety Incorporated:msa.us.txt
+Blackrock Corporate High Yield :hyt.us.txt
+Nuveen Real Estate Income Fund :jrs.us.txt
+None:usg.us.txt
+Fauquier Bankshares, Inc.:fbss.us.txt
+Alpha Architect U.S. Quantitati:qmom.us.txt
+VelocityShares 3x Long Crude Oi:uwt.us.txt
+Sierra Wireless, Inc.:swir.us.txt
+None:casm.us.txt
+MMA Capital Holdings, Inc.:mmac.us.txt
+None:esv.us.txt
+Colony NorthStar, Inc.:clns.us.txt
+None:tsg.us.txt
+Cyclacel Pharmaceuticals, Inc. :cyccp.us.txt
+John Wiley & Sons, Inc.:jw-b.us.txt
+ZW Data Action Technologies Inc:cnet.us.txt
+None:xny.us.txt
+BP Prudhoe Bay Royalty Trust:bpt.us.txt
+SolarEdge Technologies, Inc.:sedg.us.txt
+Limoneira Co:lmnr.us.txt
+New Home Company Inc. (The):nwhm.us.txt
+B2Gold Corp:btg.us.txt
+Camden Property Trust:cpt.us.txt
+Helix Energy Solutions Group, I:hlx.us.txt
+MFS Municipal Income Trust:mfm.us.txt
+Innovative Solutions and Suppor:issc.us.txt
+Computer Task Group, Incorporat:ctg.us.txt
+SP Plus Corporation:sp.us.txt
+None:fmci.us.txt
+Imax Corporation:imax.us.txt
+Special Opportunities Fund, Inc:spe.us.txt
+Neptune Wellness Solutions Inc.:nept.us.txt
+Barings Global Short Duration H:bgh.us.txt
+None:ktp.us.txt
+None:ehic.us.txt
+36759:synt.us.txt
+Luby's, Inc.:lub.us.txt
+Targa Resources, Inc.:trgp.us.txt
+Chuy's Holdings, Inc.:chuy.us.txt
+PulteGroup, Inc.:phm.us.txt
+Harvard Bioscience, Inc.:hbio.us.txt
+Microsoft Corporation:msft.us.txt
+PRA Health Sciences, Inc.:prah.us.txt
+369807:sgy.us.txt
+China Distance Education Holdin:dl.us.txt
+Nuveen Preferred & Income Oppor:jpc.us.txt
+None:alo.us.txt
+None:wyn.us.txt
+ARC GROUP WORLDWIDE INC:arcw.us.txt
+Littelfuse, Inc.:lfus.us.txt
+United Rentals, Inc.:uri.us.txt
+Ever-Glory International Group,:evk.us.txt
+None:sbbx.us.txt
+None:pn.us.txt
+Summit State Bank:ssbi.us.txt
+Thomson Reuters Corp:tri.us.txt
+4156:nyh.us.txt
+QAD Inc.:qada.us.txt
+Synthetic Fixed-Income Securiti:gjp.us.txt
+None:kkr_b.us.txt
+Silgan Holdings Inc.:slgn.us.txt
+CHS Inc - Preferred:chscn.us.txt
+None:gnc.us.txt
+Platinum Energy Solutions Inc:frac.us.txt
+None:kwn.us.txt
+ImmuCell Corporation:iccc.us.txt
+None:nycb_a.us.txt
+iShares Edge MSCI Multifactor C:cnsf.us.txt
+Prometheus Biosciences, Inc.:rxdx.us.txt
+None:dd_b.us.txt
+Werner Enterprises, Inc.:wern.us.txt
+None:plpm.us.txt
+2912744:ca.us.txt
+Marathon Oil Corporation:mro.us.txt
+Ambac Financial Group, Inc.:ambc.us.txt
+8888:fsac.us.txt
+Nordstrom, Inc.:jwn.us.txt
+Townsquare Media, Inc.:tsq.us.txt
+None:crr.us.txt
+Urban Edge Properties:ue.us.txt
+None:salt.us.txt
+Clean Energy Fuels Corp.:clne.us.txt
+Mersana Therapeutics, Inc.:mrsn.us.txt
+Farmers & Merchants Bancorp, In:fmao.us.txt
+Spirit Realty Capital, Inc.:src.us.txt
+Covanta Holding Corporation:cva.us.txt
+Retractable Technologies, Inc.:rvp.us.txt
+KeyCorp:key.us.txt
+Range Resources Corporation:rrc.us.txt
+Byline Bancorp, Inc.:by.us.txt
+Discovery, Inc. - Series B:discb.us.txt
+Center Coast Brookfield MLP & E:cen.us.txt
+New America High Income Fund, I:hyb.us.txt
+Salisbury Bancorp, Inc.:sal.us.txt
+Fortress Transportation and Inf:ftai.us.txt
+41362:elec.us.txt
+None:pre_i.us.txt
+iShares Core 5-10 Year USD Bond:imtb.us.txt
+Franklin Resources, Inc.:ben.us.txt
+Tarena International, Inc.:tedu.us.txt
+Nuveen Select Tax Free Income P:nxp.us.txt
+Silicom Ltd:silc.us.txt
+Acceleron Pharma Inc.:xlrn.us.txt
+None:rmpl_.us.txt
+BWX Technologies, Inc.:bwxt.us.txt
+None:smrt.us.txt
+RH:rh.us.txt
+Contango Oil & Gas Company:mcf.us.txt
+Sunoco LP:sun.us.txt
+John Bean Technologies Corporat:jbt.us.txt
+Macquarie Global Infrastructure:mgu.us.txt
+None:veacu.us.txt
+None:tnp_e.us.txt
+None:sov_c.us.txt
+UBS AG UBS AG FI Enhanced Globa:fihd.us.txt
+None:wair.us.txt
+None:akrx.us.txt
+Entercom Communications Corp.:etm.us.txt
+None:nha.us.txt
+GasLog Partners LP:glop.us.txt
+Sunrun Inc.:run.us.txt
+Middlefield Banc Corp.:mbcn.us.txt
+MasTec, Inc.:mtz.us.txt
+None:cim_a.us.txt
+First Trust Exchange-Traded Fun:hdmv.us.txt
+Invesco High Income Trust II:vlt.us.txt
+First Majestic Silver Corp.:ag.us.txt
+iShares 5-10 Year Investment Gr:mlqd.us.txt
+Sabine Royalty Trust:sbr.us.txt
+Transportadora de Gas del Sur S:tgs.us.txt
+iShares Edge MSCI Min Vol EM Cu:hemv.us.txt
+Virtus LifeSci Biotech Clinical:bbc.us.txt
+Ashford Inc. (Holding Company):ainc.us.txt
+PIMCO Municipal Income Fund:pmf.us.txt
+Westwood Holdings Group Inc:whg.us.txt
+Laredo Petroleum, Inc.:lpi.us.txt
+None:rbs_s.us.txt
+General Dynamics Corporation:gd.us.txt
+Molson Coors Beverage Company:tap.us.txt
+Curtiss-Wright Corporation:cw.us.txt
+Hexcel Corporation:hxl.us.txt
+Aspen Aerogels, Inc.:aspn.us.txt
+Kandi Technologies Group, Inc.:kndi.us.txt
+Park Aerospace Corp.:pke.us.txt
+Uranium Energy Corp.:uec.us.txt
+Emerging Markets Equity Select :rnem.us.txt
+U.S. Tax Reform Fund:taxr.us.txt
+Old National Bancorp:onb.us.txt
+Pioneer Municipal High Income A:mav.us.txt
+1465608:px.us.txt
+National Security Group, Inc.:nsec.us.txt
+Teekay Corporation:tk.us.txt
+None:ern.us.txt
+None:afsi_c.us.txt
+Evolving Systems, Inc.:evol.us.txt
+Lee Enterprises, Incorporated:lee.us.txt
+Shoe Carnival, Inc.:scvl.us.txt
+Pulse Biosciences, Inc:plse.us.txt
+2990:fsbk.us.txt
+None:nrcib.us.txt
+7GC & Co. Holdings Inc.:vii.us.txt
+None:lens.us.txt
+Comfort Systems USA, Inc.:fix.us.txt
+Concord Medical Services Holdin:ccm.us.txt
+None:jone.us.txt
+Sonoma Pharmaceuticals, Inc.:snoa.us.txt
+DWS Municipal Income Trust:ktf.us.txt
+CMC Materials, Inc.:ccmp.us.txt
+Republic First Bancorp, Inc.:frbk.us.txt
+None:sgy-ws.us.txt
+Alexander & Baldwin, Inc.:alex.us.txt
+Eaton Vance Floating-Rate 2022 :efl.us.txt
+Viveve Medical, Inc.:vive.us.txt
+Campbell Soup Company:cpb.us.txt
+AdvisorShares Cornerstone Small:scap.us.txt
+Western Union Company (The):wu.us.txt
+Sandstorm Gold Ltd.:sand.us.txt
+Duff & Phelps Utility & Corpora:duc.us.txt
+DISH Network Corporation:dish.us.txt
+Ferrari N.V.:race.us.txt
+Stifel Financial Corporation:sf.us.txt
+Invesco DWA SmallCap Momentum E:dwas.us.txt
+None:ahpau.us.txt
+None:all_b.us.txt
+National Retail Properties:nnn.us.txt
+Lazard LTD. Lazard, LTD.:laz.us.txt
+None:mdso.us.txt
+Arrow Reserve Capital Managemen:arcm.us.txt
+82560:agii.us.txt
+First Trust SSI Strategic Conve:fcvt.us.txt
+Kirkland's, Inc.:kirk.us.txt
+Exxon Mobil Corporation:xom.us.txt
+ETRACS Monthly Pay 2xLeveraged :mrrl.us.txt
+Mesoblast Limited:meso.us.txt
+TriMas Corporation:trs.us.txt
+Methode Electronics, Inc.:mei.us.txt
+Tredegar Corporation:tg.us.txt
+PetMed Express, Inc.:pets.us.txt
+Nuveen Enhanced Yield 1-5 Year :nusa.us.txt
+PerkinElmer, Inc.:pki.us.txt
+Supernus Pharmaceuticals, Inc.:supn.us.txt
+Invesco BulletShares 2027 Corpo:bscr.us.txt
+Global Indemnity Group, LLC:gbli.us.txt
+Flanigan's Enterprises, Inc.:bdl.us.txt
+Patterson Companies, Inc.:pdco.us.txt
+None:mpacw.us.txt
+WisdomTree U.S. Multifactor Fun:usmf.us.txt
+None:wpxp.us.txt
+Blackrock MuniVest Fund, Inc.:mvf.us.txt
+None:hsni.us.txt
+None:ksu_.us.txt
+VictoryShares US Large Cap High:cdl.us.txt
+Telecom Argentina SA:teo.us.txt
+Maxim Integrated Products, Inc.:mxim.us.txt
+None:uqm.us.txt
+None:sbfgp.us.txt
+KraneShares MSCI One Belt One R:obor.us.txt
+Apogee Enterprises, Inc.:apog.us.txt
+Sterling Bancorp:stl.us.txt
+BlackRock Ultra Short-Term Bond:icsh.us.txt
+Weyerhaeuser Company:wy.us.txt
+Nicolet Bankshares Inc.:ncbs.us.txt
+GTY Technology Holdings, Inc.:gtyh.us.txt
+13310434:cpn.us.txt
+None:bbt_f.us.txt
+Oasis Midstream Partners LP:omp.us.txt
+Adaptimmune Therapeutics plc:adap.us.txt
+Prologis, Inc.:pld.us.txt
+BlackRock Energy and Resources :bgr.us.txt
+None:cof-ws.us.txt
+Emergent Biosolutions, Inc.:ebs.us.txt
+None:mitt_b.us.txt
+Genetic Technologies Ltd:gene.us.txt
+501711:rgc.us.txt
+Palo Alto Networks, Inc.:panw.us.txt
+None:amag.us.txt
+O'Shares FTSE Asia Pacific Qual:oasi.us.txt
+None:taho.us.txt
+Pacer Global Cash Cows Dividend:gcow.us.txt
+Catalyst Biosciences, Inc.:cbio.us.txt
+None:blvd.us.txt
+None:cca.us.txt
+McEwen Mining Inc.:mux.us.txt
+None:fit.us.txt
+AT&T Inc. 5.350% Global Notes d:tbb.us.txt
+Superior Group of Companies, In:sgc.us.txt
+None:arql.us.txt
+None:ryam_a.us.txt
+NeuroMetrix, Inc.:nuro.us.txt
+RPC, Inc.:res.us.txt
+None:fsacw.us.txt
+OncoSec Medical Incorporated:oncs.us.txt
+CorEnergy Infrastructure Trust,:corr.us.txt
+Lions Gate Entertainment Corpor:lgf-a.us.txt
+Goldman Sachs ActiveBeta Intern:gsie.us.txt
+Telephone and Data Systems, Inc:tda.us.txt
+Rave Restaurant Group, Inc.:rave.us.txt
+Nuveen Real Asset Income and Gr:jri.us.txt
+None:jsynu.us.txt
+None:cyhhz.us.txt
+FutureFuel Corp.:ff.us.txt
+None:shlo.us.txt
+Bowl America, Inc.:bwl-a.us.txt
+706:rivr.us.txt
+None:gs_j.us.txt
+None:esl.us.txt
+Foresight Autonomous Holdings L:frsx.us.txt
+None:bmch.us.txt
+None:jmpb.us.txt
+None:uwn.us.txt
+NetEase, Inc.:ntes.us.txt
+Taiwan Fund, Inc. (The):twn.us.txt
+Borqs Technologies, Inc.:brqs.us.txt
+DoubleLine Income Solutions Fun:dsl.us.txt
+Nasdaq, Inc.:ndaq.us.txt
+Naked Brand Group Limited:nakd.us.txt
+Cel-Sci Corporation:cvm.us.txt
+Yunhong CTI Ltd.:ctib.us.txt
+None:psdo.us.txt
+None:piy.us.txt
+264707:egn.us.txt
+Sharps Compliance Corp.:smed.us.txt
+None:cbo.us.txt
+Sprouts Farmers Market, Inc.:sfm.us.txt
+Federal Agricultural Mortgage C:agm-a.us.txt
+401456:sonc.us.txt
+Andina Acquisition Corp. III:andau.us.txt
+EPR Properties:epr.us.txt
+Texas Capital Bancshares, Inc. :tcbil.us.txt
+Kentucky First Federal Bancorp:kffb.us.txt
+iShares ESG Aware MSCI EM ETF:esge.us.txt
+Maiden Holdings, Ltd. 6.625% No:mhla.us.txt
+PCSB Financial Corporation:pcsb.us.txt
+None:yin.us.txt
+None:time.us.txt
+CafePress Inc.:prss.us.txt
+Azure Power Global Limited:azre.us.txt
+Tortoise Pipeline & Energy Fund:ttp.us.txt
+AMERISAFE, Inc.:amsf.us.txt
+None:ohrp.us.txt
+None:wfc_w.us.txt
+Realty Shares DIVS ETF:divy.us.txt
+Xinyuan Real Estate Co Ltd:xin.us.txt
+Tutor Perini Corporation:tpc.us.txt
+Unifi, Inc. New:ufi.us.txt
+Equifax, Inc.:efx.us.txt
+Gildan Activewear, Inc.:gil.us.txt
+Net Element, Inc.:nete.us.txt
+Ladder Capital Corp:ladr.us.txt
+Invesco Water Resources ETF:pho.us.txt
+None:nnn_f.us.txt
+None:zagg.us.txt
+Ardelyx, Inc.:ardx.us.txt
+Columbia EM Core ex-China ETF:xcem.us.txt
+None:bte.us.txt
+60108:bont.us.txt
+AAON, Inc.:aaon.us.txt
+Inspire Global Hope ETF:bles.us.txt
+None:mfo.us.txt
+State Street Corporation:stt.us.txt
+Direxion Daily Homebuilders & S:nail.us.txt
+Spire Inc.:sr.us.txt
+Premise Capital Diversified Tac:tctl.us.txt
+Simon Property Group, Inc.:spg.us.txt
+Synthetic Fixed-Income Securiti:gjr.us.txt
+BankFinancial Corporation:bfin.us.txt
+CHS Inc:chscl.us.txt
+Grupo Supervielle S.A.:supv.us.txt
+None:ddr_k.us.txt
+IRSA Propiedades Comerciales S.:ircp.us.txt
+Allegiance Bancshares, Inc.:abtx.us.txt
+None:tlrd.us.txt
+Lipocine Inc.:lpcn.us.txt
+First Capital, Inc.:fcap.us.txt
+A.O. Smith Corporation:aos.us.txt
+Ambarella, Inc.:amba.us.txt
+Chemours Company (The):cc.us.txt
+None:pglc.us.txt
+None:wbs_e.us.txt
+Energy Focus, Inc.:efoi.us.txt
+Cara Therapeutics, Inc.:cara.us.txt
+Repligen Corporation:rgen.us.txt
+Co-Diagnostics, Inc.:codx.us.txt
+410502:spil.us.txt
+Giga-tronics Incorporated:giga.us.txt
+MediWound Ltd.:mdwd.us.txt
+None:abcd.us.txt
+EVI Industries, Inc.:evi.us.txt
+2319:mab.us.txt
+SunLink Health Systems, Inc.:ssy.us.txt
+Electro-Sensors, Inc.:else.us.txt
+Ohio Valley Banc Corp.:ovbc.us.txt
+Semtech Corporation:smtc.us.txt
+None:mini.us.txt
+Hartford Multifactor REIT ETF:rore.us.txt
+Oaktree Specialty Lending Corpo:osle.us.txt
+None:trk.us.txt
+None:swj.us.txt
+None:pphmp.us.txt
+Cohen & Steers Quality Income R:rqi.us.txt
+Comstock Holding Companies, Inc:chci.us.txt
+Kingsway Financial Services, In:kfs.us.txt
+Pzena Investment Management Inc:pzn.us.txt
+Catabasis Pharmaceuticals, Inc.:catb.us.txt
+Geopark Ltd:gprk.us.txt
+Eaton Vance Tax-Managed Diversi:ety.us.txt
+None:rely.us.txt
+Carnival Plc:cuk.us.txt
+Hartford Financial Services Gro:hig.us.txt
+None:mbtf.us.txt
+MFS Charter Income Trust:mcr.us.txt
+DTE Energy Company 2016 Series :dty.us.txt
+Magna International, Inc.:mga.us.txt
+None:wfc_o.us.txt
+AGFiQ Hedged Dividend Income Fu:diva.us.txt
+None:sgyp.us.txt
+Build-A-Bear Workshop, Inc.:bbw.us.txt
+Geospace Technologies Corporati:geos.us.txt
+56501:hbhc.us.txt
+None:psa_d.us.txt
+Clough Global Equity Fund Cloug:glq.us.txt
+None:two_a.us.txt
+None:bac_l.us.txt
+Dare Bioscience, Inc.:dare.us.txt
+Univar Solutions Inc.:unvr.us.txt
+HC2 Holdings, Inc.:hchc.us.txt
+UVA Unconstrained Medium-Term F:ffiu.us.txt
+Vail Resorts, Inc.:mtn.us.txt
+First Hawaiian, Inc.:fhb.us.txt
+AMC Entertainment Holdings, Inc:amc.us.txt
+None:cof_c.us.txt
+Hi-Crush Partners LP:hclp.us.txt
+Enterprise Bancorp Inc:ebtc.us.txt
+None:drys.us.txt
+The9 Limited - American Deposit:ncty.us.txt
+1st Source Corporation:srce.us.txt
+None:nee_h-cl.us.txt
+None:kem.us.txt
+None:bold.us.txt
+33138:crf.us.txt
+Trinseo S.A.:tse.us.txt
+CPI Aerostructures, Inc.:cvu.us.txt
+Aptus Fortified Value ETF:ftva.us.txt
+None:arr_b.us.txt
+618500:dst.us.txt
+Myovant Sciences Ltd.:myov.us.txt
+None:stl_a.us.txt
+Alico, Inc.:alco.us.txt
+None:stt_g.us.txt
+Garmin Ltd.:grmn.us.txt
+None:vly_a.us.txt
+None:twow.us.txt
+John Hancock Multifactor Consum:jhms.us.txt
+Goldman Sachs Access Treasury 0:gbil.us.txt
+Cushing 30 MLP Index ETNs due J:ppln.us.txt
+Teledyne Technologies Incorpora:tdy.us.txt
+BP Midstream Partners LP:bpmp.us.txt
+None:attu.us.txt
+Lantheus Holdings, Inc.:lnth.us.txt
+VictoryShares Emerging Market V:cez.us.txt
+CAI International, Inc.:cai.us.txt
+QuinStreet, Inc.:qnst.us.txt
+Tucows Inc.:tcx.us.txt
+None:nw_c-cl.us.txt
+Magic Software Enterprises Ltd.:mgic.us.txt
+IXYS Corporation:ixys.us.txt
+Nuveen Credit Strategies Income:jqc.us.txt
+M&T Bank Corporation:mtb.us.txt
+First Horizon Corporation:fhn.us.txt
+Estee Lauder Companies, Inc. (T:el.us.txt
+AveXis, Inc.:avxs.us.txt
+None:govni.us.txt
+Donaldson Company, Inc.:dci.us.txt
+None:akao.us.txt
+American Software, Inc.:amswa.us.txt
+Pro-Dex, Inc.:pdex.us.txt
+Southside Bancshares, Inc.:sbsi.us.txt
+Whiting Petroleum Corporation:wll.us.txt
+Putnam Master Intermediate Inco:pim.us.txt
+Hawthorn Bancshares, Inc.:hwbk.us.txt
+Select Energy Services, Inc.:wttr.us.txt
+RealPage, Inc.:rp.us.txt
+First Midwest Bancorp, Inc.:fmbi.us.txt
+The Trade Desk, Inc.:ttd.us.txt
+Visteon Corporation:vc.us.txt
+MGM Resorts International:mgm.us.txt
+Jabil Inc.:jbl.us.txt
+None:egif.us.txt
+KraneShares Emerging Markets Co:kemq.us.txt
+None:etfc.us.txt
+None:pdvw.us.txt
+None:bcrh.us.txt
+139330:abax.us.txt
+Forterra, Inc.:frta.us.txt
+None:ht_c.us.txt
+Keysight Technologies Inc.:keys.us.txt
+10525:cev.us.txt
+Boeing Company (The):ba.us.txt
+Meridian Bancorp, Inc.:ebsb.us.txt
+CAE Inc.:cae.us.txt
+3D Systems Corporation:ddd.us.txt
+None:amgp.us.txt
+Bed Bath & Beyond Inc.:bbby.us.txt
+First Industrial Realty Trust, :fr.us.txt
+None:nghcp.us.txt
+Mannatech, Incorporated:mtex.us.txt
+Morgan Stanley Emerging Markets:edd.us.txt
+None:roseu.us.txt
+Worthington Industries, Inc.:wor.us.txt
+None:aht_g.us.txt
+WisdomTree China ex-State-Owned:cxse.us.txt
+Regency Centers Corporation:reg.us.txt
+None:rosg.us.txt
+Magyar Bancorp, Inc.:mgyr.us.txt
+None:sohom.us.txt
+Elevate Credit, Inc.:elvt.us.txt
+TCW Strategic Income Fund, Inc.:tsi.us.txt
+Diana Shipping inc.:dsx.us.txt
+Taylor Devices, Inc.:tayd.us.txt
+Nuveen Georgia Quality Municipa:nkg.us.txt
+India Fund Ltd:inf.us.txt
+KAR Auction Services, Inc:kar.us.txt
+Empire State Realty OP, L.P. Se:ogcp.us.txt
+None:orit.us.txt
+None:srci.us.txt
+Draper Oakwood Technology Acqui:dota.us.txt
+None:casc.us.txt
+Waste Management, Inc.:wm.us.txt
+Manulife Financial Corporation:mfc.us.txt
+Varonis Systems, Inc.:vrns.us.txt
+Seagate Technology PLC:stx.us.txt
+Denny's Corporation:denn.us.txt
+Direxion Daily Natural Gas Rela:gasx.us.txt
+Fulgent Genetics, Inc.:flgt.us.txt
+China Life Insurance Company Li:lfc.us.txt
+Pacira BioSciences, Inc.:pcrx.us.txt
+None:ty_.us.txt
+JAKKS Pacific, Inc.:jakk.us.txt
+British American Tobacco  Indus:bti.us.txt
+Activision Blizzard, Inc:atvi.us.txt
+LMP Capital and Income Fund Inc:scd.us.txt
+Qumu Corporation:qumu.us.txt
+Fresenius Medical Care AG:fms.us.txt
+None:qhc.us.txt
+ZTO Express (Cayman) Inc.:zto.us.txt
+JP Morgan Chase & Co.:jpm.us.txt
+Compania Cervecerias Unidas, S.:ccu.us.txt
+Deutsche Bank AG:db.us.txt
+Bank of Marin Bancorp:bmrc.us.txt
+Popular, Inc. - Popular Capital:bpopm.us.txt
+GMS Inc.:gms.us.txt
+Midland States Bancorp, Inc.:msbi.us.txt
+BancFirst Corporation - 7.2% Cu:banfp.us.txt
+Eaton Vance Floating Rate Incom:eft.us.txt
+Williams Companies, Inc. (The):wmb.us.txt
+ManpowerGroup:man.us.txt
+Conduent Incorporated:cndt.us.txt
+None:amh_c.us.txt
+Tenaris S.A.:ts.us.txt
+MannKind Corporation:mnkd.us.txt
+Celyad Oncology SA:cyad.us.txt
+OpGen, Inc.:opgn.us.txt
+Ur Energy Inc:urg.us.txt
+GigaMedia Limited:gigm.us.txt
+Euroseas Ltd.:esea.us.txt
+Monarch Casino & Resort, Inc.:mcri.us.txt
+The Chefs' Warehouse, Inc.:chef.us.txt
+180 Degree Capital Corp.:turn.us.txt
+BlackRock Strategic Municipal T:bsd.us.txt
+Xtrackers Barclays Internationa:ifix.us.txt
+Astec Industries, Inc.:aste.us.txt
+Fanhua Inc.:fanh.us.txt
+Good Times Restaurants Inc.:gtim.us.txt
+None:pbbi.us.txt
+None:civi.us.txt
+iFresh Inc.:ifmk.us.txt
+iShares Inc iShares MSCI Norway:enor.us.txt
+bebe stores, inc.:bebe.us.txt
+Fifth Street Asset Management I:fsam.us.txt
+Preformed Line Products Company:plpc.us.txt
+Global Cord Blood Corporation:co.us.txt
+Kohl's Corporation:kss.us.txt
+Nabriva Therapeutics plc:nbrv.us.txt
+Reading International Inc:rdi.us.txt
+Becton, Dickinson and Company:bdx.us.txt
+Fortive Corporation:ftv.us.txt
+None:ivr_c.us.txt
+None:frc_c.us.txt
+WBI BullBear Global Income ETF:wbii.us.txt
+Rockwell Medical, Inc.:rmti.us.txt
+Mueller Industries, Inc.:mli.us.txt
+Lincoln Educational Services Co:linc.us.txt
+None:nm_g.us.txt
+None:ibo.us.txt
+Reinsurance Group of America, I:rza.us.txt
+None:stlrw.us.txt
+Orange:oran.us.txt
+Northwest Bancshares, Inc.:nwbi.us.txt
+None:c_p.us.txt
+NantHealth, Inc.:nh.us.txt
+None:chekw.us.txt
+1775229:abx.us.txt
+iShares Currency Hedged MSCI EA:hscz.us.txt
+NMI Holdings Inc:nmih.us.txt
+None:inst.us.txt
+CSG Systems International, Inc.:csgs.us.txt
+Pitney Bowes Inc.:pbi.us.txt
+Tremont Mortgage Trust:trmt.us.txt
+Sportsman's Warehouse Holdings,:spwh.us.txt
+SenesTech, Inc.:snes.us.txt
+None:stag_b.us.txt
+CEVA, Inc.:ceva.us.txt
+None:heb.us.txt
+None:stml.us.txt
+The ODP Corporation:odp.us.txt
+Apollo Commercial Real Estate F:ari.us.txt
+Lowe's Companies, Inc.:low.us.txt
+Sypris Solutions, Inc.:sypr.us.txt
+Tortoise Energy Independence Fu:ndp.us.txt
+Benitec Biopharma Inc.:bntc.us.txt
+Dick's Sporting Goods Inc:dks.us.txt
+None:too_a.us.txt
+Pathfinder Bancorp, Inc.:pbhc.us.txt
+State National Companies, Inc.:snc.us.txt
+Pedevco Corp.:ped.us.txt
+Financial Institutions, Inc.:fisi.us.txt
+Costamare Inc.:cmre.us.txt
+MISONIX, Inc.:mson.us.txt
+Nuveen Senior Income Fund:nsl.us.txt
+Allot Ltd.:allt.us.txt
+AccuVein Inc:acv.us.txt
+Core Laboratories N.V.:clb.us.txt
+Virtus Enhanced Short U.S. Equi:vesh.us.txt
+None:isp-cl.us.txt
+Ellomay Capital Ltd:ello.us.txt
+Barnes Group, Inc.:b.us.txt
+First Citizens BancShares, Inc.:fcnca.us.txt
+Nuveen Ohio Quality Municipal I:nuo.us.txt
+Pacific Gas & Electric Co.:pcg.us.txt
+ROADRUNNER TRANSPORTATON SYSTMS:rrts.us.txt
+None:cor_a.us.txt
+Entergy Mississippi, LLC First :emp.us.txt
+None:llex.us.txt
+None:saex.us.txt
+Entegris, Inc.:entg.us.txt
+AeroVironment, Inc.:avav.us.txt
+HCA Healthcare, Inc.:hca.us.txt
+iShares Core U.S. REIT ETF:usrt.us.txt
+PennyMac Financial Services, In:pfsi.us.txt
+UBS ETRACS - ProShares Daily 3x:wtid.us.txt
+CBRE Clarion Global Real Estate:igr.us.txt
+Evogene Ltd.:evgn.us.txt
+VOXX International Corporation:voxx.us.txt
+Kaman Corporation:kamn.us.txt
+Denison Mines Corp:dnn.us.txt
+Myers Industries, Inc.:mye.us.txt
+None:hk.us.txt
+None:nxeo.us.txt
+WEX Inc.:wex.us.txt
+Meritor, Inc.:mtor.us.txt
+None:fbnk.us.txt
+Destination XL Group, Inc.:dxlg.us.txt
+None:maa_i.us.txt
+Liberty All-Star Growth Fund, I:asg.us.txt
+CorVel Corp.:crvl.us.txt
+KKR Real Estate Finance Trust I:kref.us.txt
+Loma Negra Compania Industrial :loma.us.txt
+Liberty Interactive Corporation:lvnta.us.txt
+None:htf-cl.us.txt
+None:wrd.us.txt
+None:induu.us.txt
+Cross Country Healthcare, Inc.:ccrn.us.txt
+iShares Currency Hedged MSCI:hewu.us.txt
+First Internet Bancorp:inbk.us.txt
+Bioanalytical Systems, Inc.:basi.us.txt
+Gabelli Utility Trust (The):gut.us.txt
+Columbia Banking System, Inc.:colb.us.txt
+Xtrackers FTSE Developed ex US :deef.us.txt
+Hologic, Inc.:holx.us.txt
+None:mnga.us.txt
+Hutchison China MediTech Limite:hcm.us.txt
+None:apu.us.txt
+ProShares Managed Futures Strat:fut.us.txt
+None:tcf_d.us.txt
+Identiv, Inc.:inve.us.txt
+2988:eio.us.txt
+Mid Cap US Equity Select ETF:rnmc.us.txt
+Blucora, Inc.:bcor.us.txt
+Merrill Lynch & Co., Inc. 6.051:ipb.us.txt
+Lakeland Industries, Inc.:lake.us.txt
+Pimco California Municipal Inco:pck.us.txt
+Nuveen Pennsylvania Quality Mun:nqp.us.txt
+Medley LLC 7.25% Notes due 2024:mdlq.us.txt
+Ligand Pharmaceuticals Incorpor:lgnd.us.txt
+The Hain Celestial Group, Inc.:hain.us.txt
+Alamos Gold Inc.:agi.us.txt
+Diodes Incorporated:diod.us.txt
+Synopsys, Inc.:snps.us.txt
+Invesco Exchange-Traded Fund Tr:reem.us.txt
+iShares Currency Hedged MSCI So:hewy.us.txt
+None:mpvd.us.txt
+Axcelis Technologies, Inc.:acls.us.txt
+None:bcs_d.us.txt
+Avalon Holdings Corporation:awx.us.txt
+ADMA Biologics Inc:adma.us.txt
+None:fpi_b.us.txt
+Invesco Conservative Multi-Asse:psmc.us.txt
+Ulta Beauty, Inc.:ulta.us.txt
+ProShares Equities for Rising R:eqrr.us.txt
+Enbridge Inc:enb.us.txt
+DSP Group, Inc.:dspg.us.txt
+Orion Group Holdings, Inc.:orn.us.txt
+Dun & Bradstreet Holdings, Inc.:dnb.us.txt
+Euro Tech Holdings Company Limi:clwt.us.txt
+Vermilion Energy Inc.:vet.us.txt
+Blackrock MuniYield Quality Fun:myi.us.txt
+Sogou Inc.:sogo.us.txt
+Capitala Finance Corp. - 6% Not:cptal.us.txt
+ConocoPhillips:cop.us.txt
+None:arnc_b.us.txt
+Apricus Biosciences, Inc.:apri.us.txt
+CHINA AUTO LOGISTICS:cali.us.txt
+None:inwk.us.txt
+Andina Acquisition Corp. III:anda.us.txt
+Digital Realty Trust, Inc.:dlr.us.txt
+First:fcf.us.txt
+American Financial Group, Inc.:afg.us.txt
+None:nxeou.us.txt
+Abbott Laboratories:abt.us.txt
+TeklaLife Sciences Investors:hql.us.txt
+None:dest.us.txt
+None:recn.us.txt
+None:wpx.us.txt
+Group 1 Automotive, Inc.:gpi.us.txt
+Optibase Ltd.:obas.us.txt
+ReWalk Robotics Ltd.:rwlk.us.txt
+Alphabet Inc.:goog.us.txt
+WBI BullBear Rising Income 3000:wbie.us.txt
+Eagle Bancorp, Inc.:egbn.us.txt
+Veeva Systems Inc.:veev.us.txt
+None:snhni.us.txt
+None:tcf-ws.us.txt
+Farmland Partners Inc.:fpi.us.txt
+Intuit Inc.:intu.us.txt
+News Corporation:nws.us.txt
+Voya Natural Resources Equity I:irr.us.txt
+Spectrum Pharmaceuticals, Inc.:sppi.us.txt
+Sleep Number Corporation:snbr.us.txt
+Otter Tail Corporation:ottr.us.txt
+KLA Corporation:klac.us.txt
+Amplify YieldShares Oil Hedged :amlx.us.txt
+Summit Financial Group, Inc.:smmf.us.txt
+ADDvantage Technologies Group, :aey.us.txt
+Uniti Group Inc.:unit.us.txt
+Eagle Materials Inc:exp.us.txt
+Pretium Resources, Inc.:pvg.us.txt
+Autohome Inc.:athm.us.txt
+ASML Holding N.V. - New York Re:asml.us.txt
+None:sbnyw.us.txt
+Broadway Financial Corporation:byfc.us.txt
+None:zayo.us.txt
+U.S. Physical Therapy, Inc.:usph.us.txt
+Alexandria Real Estate Equities:are.us.txt
+379394:bkmu.us.txt
+None:zf.us.txt
+None:afgh.us.txt
+ETRACS S&P GSCI Crude Oil Total:oilx.us.txt
+Enzo Biochem, Inc.:enz.us.txt
+None:inn_b.us.txt
+None:uuuu-ws.us.txt
+PGIM Short Duration High Yield :isd.us.txt
+Bank of Hawaii Corporation:boh.us.txt
