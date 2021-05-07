@@ -1,2 +1,3 @@
 # AIProject_Data
 This just holds the stock names that are known based on the ticker; anything denoted with "*" means that we had looked up the name. If it has a name with a star, it means we tried to look up the name ourselves, if it states "None", then we either could not find the name, or we did not look for the name.
+Each stock listed has its full name, followed by a colon (":"), followed by the short-name with the extension ".us.txt"; if you are entering a specific stock to be tested, only enter the short-name without the extension. For example, if you'd like to see the model done on " Opiant Pharmaceuticals, Inc.:opnt.us.txt ", then when asked for a specific stock, "opnt" should be entered.
